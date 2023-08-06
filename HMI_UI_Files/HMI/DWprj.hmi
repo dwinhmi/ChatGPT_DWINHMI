@@ -1,0 +1,12 @@
+[INIT]
+PICFIX=1
+VARCount=64
+Version=-1
+ProVersion=645
+SCREENDSIZE=800X480
+SPADDRESS=5000
+[IMG]
+00=00_splashScreen.jpg
+01=01_keyboard.jpg
+02=02_keyboardbg.jpg
+03=03_info.jpg
